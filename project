@@ -1,0 +1,4 @@
+git remote add orgin
+https://github.com/x-ghost/my-first-project-git
+git branch -M main
+git push -u orgin main
